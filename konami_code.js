@@ -11,10 +11,10 @@ function init() {
       index++;
       
       if(index == code.length){
-        alert("You did it");
+        alert("Done");
         index = 0;
       }
     }
   },false);
 
-}
+}learn submit
