@@ -4,6 +4,8 @@ function init() {
   // Write your JavaScript code inside the init() function
   var index = 0;
   
-  document.addEventListner("keydown",)
+  document.addEventListner("keydown", function(e)){
+    
+  }
 
 }
